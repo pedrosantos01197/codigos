@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+main()
+{
+	int indice, k, soma;
+	indice = 13;
+	k = soma = 0;
+	while(k<indice)
+	{
+		k = k + 1;
+		soma = soma + k;
+	}
+	printf("soma: [%d]",soma);
+}
+
+//soma = 91
