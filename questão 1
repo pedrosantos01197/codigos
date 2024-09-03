@@ -1,3 +1,10 @@
+/*
+	Name: soma.cpp
+	Author: Pedro Henrique dos Santos
+	Date: 03/09/2024
+	Description: implementação da questão 1 do processo seletivo
+*/
+
 #include <stdio.h>
 
 main()
